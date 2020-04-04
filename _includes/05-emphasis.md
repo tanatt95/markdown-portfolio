@@ -11,12 +11,12 @@ Below is a *list* of my **technical skills**:
 - Computer Assembly / IT or Network assembly
 
 ### Language
-- **English**\
-*Proficient* in reading, listening, speaking, and writing\
+- **English**  
+*Proficient* in reading, listening, speaking, and writing  
 TOEFL(Institutional): *610/677*, TU-GET: *850/1000*, TOEIC: *960/990*, and IELTS *7.5*
-- **Thai**\
+- **Thai**  
 *Proficient* in reading, listening, speaking, and writing
-- **German**\
+- **German**  
 *Elementary* in reading, listening, speaking, and writing
 
 ### Communication
