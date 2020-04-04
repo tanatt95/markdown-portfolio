@@ -1,1 +1,15 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+Below is a *list* of my **technical skills**:
+
+## Language
+- English :+1:
+- Thai
+- German
+
+## Programming languages
+- Python :+1:
+- Java
+- PHP
+- MySQL
+
+:heart: :computer: :heart: :computer: :heart:
